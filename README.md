@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Lead Enrichment & Email Automation System
 
 This system automates the process of lead research and personalized outreach.
@@ -41,3 +42,6 @@ The system uses a **Service-Oriented Architecture** (SOA) built in Python:
 - **No Scraping**: The LinkedIn module is designed to use official enrichment APIs or public search snippets.
 - **Non-Generic Outreach**: AI is prompted to prioritize professional tone and specific activity hooks over generic templates.
 - **Locking**: Row-level status updates prevent duplicate processing.
+=======
+# Automate_marketing_Agent
+>>>>>>> 63987773540723e2f523cca99edf68dfd3e59d5e
